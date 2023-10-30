@@ -3,5 +3,7 @@
 A collection of Jupyter notebooks with linear algebra study notes.
 
 ## Structure
-* Vectors 
-  - Vector Products
+
+-   Vectors
+    -   Vector Products
+    -   Complex Vectors
