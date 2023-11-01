@@ -6,4 +6,6 @@ A collection of Jupyter notebooks with linear algebra study notes.
 
 -   Vectors
     -   Vector Products
-    -   Complex Vectors
+    -   Complex Vectorsq
+-   Matrices
+    -   Special Matrices
