@@ -9,3 +9,4 @@ A collection of Jupyter notebooks with linear algebra study notes.
     -   Complex Vectorsq
 -   Matrices
     -   Special Matrices
+    -   Basic Matrix Operations
