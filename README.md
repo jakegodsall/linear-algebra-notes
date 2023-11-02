@@ -10,3 +10,4 @@ A collection of Jupyter notebooks with linear algebra study notes.
 -   Matrices
     -   Special Matrices
     -   Basic Matrix Operations
+    -   Matrix Multiplication
